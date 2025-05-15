@@ -2,6 +2,8 @@
 
 This project is a comprehensive machine learning pipeline for predicting customer churn in a credit card dataset. It showcases the full lifecycle from data cleaning and exploratory analysis to advanced model development using **GridMaster**, a custom-built Python package designed to optimize and compare multiple machine learning models efficiently.
 
+🌐 [View Project Page](https://winston-wang.com/portfolio/credit-card-churn)
+
 ## 📁 Project Structure
 ```
 credit-card-churn-prediction/
